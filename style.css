@@ -2,14 +2,8 @@ body {
     background-color: rgb(243, 243, 219)
 
 }
-.quadrado {
-    width: 550px;
-    height: 220px;
-    background-color: rgba(159, 212, 238, 0.608);
-    margin: 0px;
-}
 .menu {
-    
+    border-radius: 10px;
     width: 550%;
     height: 100px;
     background-color: rgba(159, 212, 238, 0.741);
@@ -18,3 +12,37 @@ body {
     margin-bottom: 20px;
     margin-top: 20px;
 }
+
+.quadrado {
+    border-radius: 20px;
+    width: 550px;
+    height: 175px;
+    background-color: rgba(158, 233, 164, 0.704);
+    margin: 0px;
+    padding: 20px;
+}
+.quadrado2 {
+    border-radius: 20px;
+    width: 550px;
+    height: 175px;
+    background-color: rgba(232, 199, 199, 0.704);
+    margin: 0px;
+    padding: 20px;
+}
+.quadrado3 {
+    border-radius: 20px;
+    width: 400px;
+    height: 17px;
+    background-color: rgba(234, 231, 195, 0.784);
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+}
+.search-container {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
