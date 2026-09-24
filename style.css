@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(243, 243, 219)
+
+}
+.quadrado {
+    width: 550px;
+    height: 220px;
+    background-color: rgba(159, 212, 238, 0.608);
+    margin: 0px;
+}
+.menu {
+    
+    width: 550%;
+    height: 100px;
+    background-color: rgba(159, 212, 238, 0.741);
+    padding: 30px;
+    text-align: start;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
